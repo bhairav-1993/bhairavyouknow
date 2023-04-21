@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-container {
+    background-color: #FFA6B4;
+    background-size: cover;
+    width: 800px;
+    color: #062c69;
+
+}
+
+.address {
+    font-size: 14px;
+    font-weight: 500;
+    color: #062c69;
+    font-family: Roboto;
+
+}
+
+.profile-image {
+
+    border-radius: 60px;
+    padding: 12px;
+    background-color: #FFA6B4;
+    border: solid 3.5px #062c69;
+    margin: 20px;
+
+
+}
+
+.name-heading {
+    font-size: 35px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.profile {
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.header-section {
+    padding-left: 20px;
+
+}
+
+.name-container {
+    padding-top: 20px;
+    height: 200px;
+    width: 250px;
+    border: 4px solid #062c69;
+    border-top: 0px;
+    border-left: none;
+    border-bottom: none;
+
+
+}
+
+.address-container {
+    height: 200px;
+    padding-top: 20px;
+    width: 350px;
+    border: 4px solid #062c69;
+    border-bottom: none;
+    border-top: 0px;
+    border-left: none;
+    border-right: none;
+
+}
+
+.education-container {
+    height: 230px;
+    width: 620px;
+    border: none;
+
+
+}
+
+.year-container {
+    height: 230px;
+    width: 150px;
+    border: 4px solid #062c69;
+
+    border-left: none;
+    border-right: none;
+
+
+}
+
+.styling {
+    font-weight: 600;
+    color: #062c69;
+    font-family: Roboto;
+}
+
+.award-container {
+    height: 200px;
+    width: 600px;
+    border: none;
+    border-top: 0px;
+    border-left: none;
+    border-right: none;
+
+}
+
+.awardsub-container {
+    height: 200px;
+    width: 280px;
+    border: 4px solid #062c69;
+
+    border-left: none;
+
+
+}
+
+.reward-container {
+    height: 200px;
+    width: 350px;
+    border: 4px solid #062c69;
+    border-top: none;
+
+
+    border-left: none;
+}
+
+.award-container {
+    height: 200px;
+    width: 400px;
+    border: 4px solid #062c69;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+}
+
+.unorderd-list {
+    list-style-type: none;
+}
+
+.image-container {
+    display: flex;
+    text-align: center;
+
+    justify-content: space-around;
+    border-top: none;
+    margin: 10px;
+}
+
+
+.computer {
+    border-radius: 60px;
+    padding: 14px;
+    background-color: #062c69;
+    border: none;
+    margin: 20px;
+
+
+
+}
+
+.education-container {
+    border: 4px #062c69 solid;
+    border-left: none;
+    border-right: none;
+}
+
+.paragraph {
+    font-size: 13px;
+    font-weight: 500;
+    color: #062c69;
+    font-family: Roboto;
+
+
+    font-style: normal;
+}
+
+.collage-year-container {
+    height: 170px;
+    width: 150px;
+    border: 4px solid #062c69;
+
+    border-left: none;
+    border-right: none;
+
+}
+
+.college-education-container {
+    height: 170px;
+    width: 600px;
+    border: 4px solid #062c69;
+    border-left: none;
+    border-right: none;
+
+}
